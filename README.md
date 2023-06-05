@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ClaireVannier
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning html and css 
+- 💞️ I’m looking to collaborate on github
+- 📫 How to reach me on linkedin: https://www.linkedin.com/in/clairevannier/
